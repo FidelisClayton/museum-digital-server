@@ -1,0 +1,67 @@
+{
+  "subsets": [
+    {
+      "id": "berlin",
+      "name": "Berlin",
+      "institutions": 220,
+      "image": "berlin-cover"
+    },
+    {
+      "id": "bayern",
+      "name": "Bayern",
+      "institutions": 3,
+      "image": "bayern-cover"
+    }
+  ],
+  "institutions": [
+    {
+      "id": 1,
+      "name": "FHXB Friedrichshain-Kreuzberg Museum",
+      "image": "https://berlin.museum-digital.de/data/berlin/images/201509/17190928897.jpg",
+      "description": "Das FHXB Friedrichshain-Kreuzberg Museum ist das Gedächtnis des Ost-West-Berliner Innenstadtbezirks an der Spree. Es unterhält ein umfangreiches Archiv zu den Ortsteilen Friedrichshain (ehem. Ost) und Kreuzberg (ehem. West) mit Beratung für alle Interessierten. Dazu gibt es wechselnde Ausstellungen zur Regional- und Stadtteil-geschichte, in der Regel unter aktuellen Fragestellungen, besonders zur Zuwanderung, Industrie-, Gewerbe- und Stadtentwicklung; eine Dauerausstellung mit Abteilungen zur Stadtentwicklung und Migrationsgeschichte auf drei Etagen; eine historische Setzerei und Druckerei - die ehemalige Druckerei Otto Schneider; eine Präsenzbibliothek zur Geschichte Friedrichshains und Kreuzbergs; museumspädagogische Angebote für Kinder, Jugendliche und Erwachsene sowie thematische Stadtführungen.\r\nDas Friedrichshain-Kreuzberg Museum ist Teil des Fachbereichs Kultur und Geschichte im Amt für Weiterbildung und Kultur des Bezirksamtes Friedrichshain-Kreuzberg. Das Haus, in dem es sich befindet, liegt am Kottbusser Tor.\r\nEs heißt kurz: FHXB Museum.",
+      "subsetId": "berlin"
+    },
+    {
+      "id": 2,
+      "name": "Bezirksmuseum Marzahn-Hellersdorf",
+      "image": "https://berlin.museum-digital.de/data/berlin/images200909/200w_4.jpg",
+      "description": "Das Bezirksmuseum Marzahn-Hellersdorf erforscht und vermittelt die Geschichte des Bezirks Marzahn-Hellersdorf und seiner Ortsteile Biesdorf, Hellersdorf, Kaulsdorf, Mahlsdorf und Marzahn von der ersten menschlichen Besiedlung der Region vor 11.000 Jahren bis zu den modernen Gro�siedlungen.\r\nGrundlage der Museumsarbeit sind die Sammlung und das Archiv zur Bezirksgeschichte, die vor allem durch Spenden aus der Bev�lkerung und im Zusammenhang mit Recherchen f�r Ausstellungsprojekte wachsen. Zum Bestand geh�ren Objekte der Alltags- und Sozialgeschichte, Fotos und Ansichtskarten, Karten und Pl�ne, Dokumente, Ton- und Filmaufnahmen, regionalgeschichtliche Zeitungen und Zeitungsausschnitte und eine Pr�senzbibliothek. Im Mittelpunkt stehen Objekte und Materialien zur Geschichte und Alltagskultur der D�rfer, Siedlungsgebiete und Gro�siedlungen in industrieller Bauweise mit dem Schwerpunkt 20. Jahrhundert.",
+      "subsetId": "berlin"
+    },
+    {
+      "id": 3,
+      "name": "Museen Tempelhof-Schöneberg",
+      "image": "https://berlin.museum-digital.de/data/berlin/images/201101/17090650682.jpg",
+      "description": "Museen Tempelhof-Schöneberg\r\n\r\nDie Museen Tempelhof-Schöneberg verstehen sich als lebendiges Regionalmuseum für alle Generationen, mit wechselnden Ausstellungen zur Stadt- und Kulturgeschichte und einem vielfältigen Programm.\r\n\r\nAn den verschiedenen Standorten wird ein integriertes Konzept von Geschichtsforschung und Geschichtsvermittlung verfolgt. Neben eigener Grundlagenforschung, die in lebendig gestalteten, interaktiven Ausstellungsformaten präsentiert werden, tragen die Museen ihre Forschungsergebnisse auch in den öffentlichen Stadtraum.\r\n\r\nEin vielfältiges Veranstaltungs- und Vermittlungsprogramm für Kinder, Jugendliche und Erwachsene lädt zu Workshops, Lesungen, Konzerten  und Zeitzeugengesprächen ein. BezirksTOUREN führen zu authentischen Orten und erzählen Geschichte(n) des Bezirks. \r\n\r\nDas historische Archiv der Museen Tempelhof-Schöneberg versteht sich als Ansprechpartner für Menschen, die sich mit historischen und aktuellen Fragestellungen zur Stadt- und Kulturgeschichte befassen. Zum Bestand gehören authentische Objekte der Alltags- und Kulturgeschichte, eine Gemäldesammlung, historische Originalfotografien und Bildpostkarten sowie Fotografien der Gegenwart, Karten und Pläne zur Stadtentwicklung des 19. und 20. Jahrhunderts, regionalhistorische Zeitungen seit 1860 und zahlreiche Dokumente zur Geschichte der beiden Ortsteile. Die inhaltlichen Sammlungsschwerpunkte sind: Ländliches Leben und Dorfgeschichte, Stadtplanung- und entwicklung, Handel und Gewerbe, Schulgeschichte, Industriegeschichte, die Zeit des Nationalsozialismus und der Judenverfolgung, Migrationsgeschichte, Frauengeschichte.",
+      "subsetId": "berlin"
+    },
+    {
+      "id": 5,
+      "name": "Museum Pankow",
+      "image": "https://berlin.museum-digital.de/data/berlin/images/201301/28161711588.jpg",
+      "description": "Wir befinden uns in einem ehemaligen Schulkomplex zwischen dem Wasserturmareal und der Prenzlauer Allee und sind mit der U2 (Senefelder Platz) und M2 (Knaackstraße) erreichbar.\r\nDie alte Turnhalle wurde zur Ausstellungshalle umgebaut.\r\nDas Museum Pankow hat die Aufgabe, die Geschichte des Bezirks Pankow und seiner Ortsteile, Blankenburg, Blankenfelde,  Buch, Französich-Buchholz, Heinersdorf, Karow, Niederschönhausen, ein Teil der Gemarkung Malchow, Pankow, Prenzlauer Berg, Rosenthal, Weißensee und Wilhelmsruh, zu erforschen, Quellen zu sammeln und die Ergebnisse in Ausstellungen und anderen Vermittlungsformen öffentlich zu präsentieren. Es versteht sich als kulturhistorisches Museum und fühlt sich einem generationsübergreifenden, historischen Bildungsauftrag verpflichtet.\r\nDas Archiv und die Sammlungen des Museums umfassen Objekte, Fotos, Dokumente, Karten und Pläne sowie  persönliche Erinnerungsberichte.\r\n\r\nAuf dem Areal des Kultur- und Bildungszentrum Sebastian Haffner in der Prenzlauer Allee 227/228 befindet sich der Hauptstandort des Museum Pankow. Die zweite Etage des Hauptgebäudes beherbergt das Archiv mit seinen Beständen, welches mittwochs 9-13 Uhr und donnerstags 13-19 Uhr öffentlich nutzbar ist.\r\n\r\nIn den Fluren des 1. und 2. OG und in Räumen der ersten Etage präsentiert das Museum mehrere Ausstellungen zu unterschiedlichen Aspekten der Bezirksgeschichte.\r\nSie sind wochentags 10-16 Uhr und an den Wochenenden 10-18 Uhr geöffnet.\r\n\r\nEin weiterer Standort des Museums Pankow befindet sich in der Heynstraße 8 (Nähe U- und S-Bahnhof Pankow). Sonderausstellungen ergänzen hier eine im original erhaltenden Ambiente gezeigte Ausstellung zu bürgerlichem Leben um 1900. Darüber hinaus präsentiert das Museum  Ausstellungen in dem Wohnhaus Dunckerstraße 77 (Pbg.) zu \"Bauen und Wohnen um 1900 in Prenzlauer Berg\"  sowie zur Geschichte des Schlosses Schönhausen und dem sogenannten Regierungsstädtchen zwischen 1945 und 1990 in den Torhäusern des Schlossareals in Niederschönhausen.\r\nVeranstaltungen und museumspädagogische Projekte ergänzen das Angebot des Museum Pankow.\r\n\r\nDas heutige Bezirksmuseum entstand durch die Berliner Bezirksreform im Jahre 2001, in dessen Ergebnis die ehemaligen Stadtbezirke Pankow, Prenzlauer Berg und Weißensee miteinander fusionierten. Wenig später erfolgte unter dem Dach des Museumsverbundes Pankow die Zusammenlegung der historischen Archive und Museen, Chronik Pankow, Panke Museum, Prenzlauer Berg Museum und Stadtgeschichtliches Museum Weißensee. Infolge der Aufgabe des Museumsstandortes in Weißensee im Jahre 2004 führt das Bezirksmuseum seit 2010 den Namen Museum Pankow.\r\nEs ist eine Einrichtung des Bezirksamtes Pankow von Berlin.",
+      "subsetId": "berlin"
+    },
+    {
+      "id": 13,
+      "name": "Münzsammlungen der Friedrich-Alexander-Universität Erlangen-Nürnberg",
+      "image": "https://bayern.museum-digital.de/data/bayern/images/201801/19095838114.jpg",
+      "description": "Die Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) besitzt rund 30.000 Münzen und Medaillen, die die Zeitspanne vom Altertum bis zur Neuzeit abdecken. Die Bestände unterschiedlicher Herkunft umfassen unter anderem die Sammlungen Gerlach, Heerdegen, Luthart, Pick, Sinugowitz, Varnhagen, Voit von Salzburg, Will, Zucker, sowie die Stücke der Ilse und Ulrich Zwicker Stiftung. Die Sammlungen Will mit etwa 12.000 Stücken und Zwicker mit rund 11.000 Objekten stellen hierbei allein rund 2/3 der Gesamtmenge. Die älteste Sammlung geht auf Friedrich Voit von Salzburg zurück, der diese zwischen 1845 und 1858 aufgebaut hat. Die jüngst hinzugekommene Sammlung ist die der Stiftung Ilse und Ulrich Zwicker, die erst mit der Jahrtausendwende an die Universität kam. Der zeitliche und regionale Schwerpunkt der Münzen ist je nach Sammlung unterschiedlich gesetzt, jedoch ist die griechische und römische Antike bis an das Ende der byzantinischen Zeit besonders stark vertreten.",
+      "subsetId": "bayern"
+    },
+    {
+      "id": 15,
+      "name": "Münzsammlung der Universität Passau",
+      "image": "https://bayern.museum-digital.de/data/bayern/images/201809/11171209402.jpg",
+      "description": "Die Münzsammlung der Professur für Alte Geschichte an der Universität Passau umfasst gut 377 Münzen aus allen Bereichen der antiken Münzgeschichte, von der archaischen Zeit Griechenlands bis in die Spätantike und das Zeitalter von Byzanz, allerdings mit einem deutlichen Schwerpunkt im Bereich der Römischen Kaiserzeit.\r\nDer Beginn der Sammlung ist mit dem ersten Lehrstuhlinhaber, Herrn Prof. Dr. H. Wolff (zwischen 1980 und 2006) zu verbinden, der sporadisch in der Lage war, Käufe zu tätigen. Unter seinem Nachfolger, Prof. Dr. O. Stoll (seit 2007), konnte die Slg. durch Käufe aus Berufungsmitteln und Bleibeverhandlungen den derzeitigen, gleichwohl nach wie vor bescheidenen Stand erreichen.\r\nDennoch wird die Sammlung, trotz ihres geringen Umfangs, aktiv in die Lehrveranstaltungen der Professur für Alte Geschichte eingebunden und somit fortlaufend genauer bestimmt und als Praxismöglichkeit zur Wissensvermittlung  verwendet.\r\nDa es für die Slg. keinen Etat von Seiten der Universität gibt, ist ein weiteres Anwachsen derzeit nicht zu erwarten.",
+      "subsetId": "bayern"
+    },
+    {
+      "id": 14,
+      "name": "Martin von Wagner Museum",
+      "image": "https://bayern.museum-digital.de/data/bayern/images/201807/18195139255.jpg",
+      "description": "Das Martin von Wagner Museum ist seit 1963 im Südflügel der Fürstbischöflichen Residenz untergebracht. Die 1832 gegründete Sammlung der Universität Würzburg erweiterte sich durch die umfangreiche Kunstsammlung des Malers, Bildhauers und Kunstagenten König Ludwigs I. in Rom, Martin von Wagner (1777–1858), zu einem der größten Universitätsmuseen Europas, das deshalb heute den Namen des Stifters trägt.\r\nEs besteht aus einer Antikensammlung, einer Gemäldegalerie, in der auch Skulpturen gezeigt werden, und einer Graphischen Sammlung. Ab dem Frühjahr 2019 werden ausgewählte Exemplare des Münzkabinetts unsere Dauerausstellung in der Antikensammlung verstärken.\r\nIn der Antikensammlung sind Kunstwerke und Altertümer des Mittelmeerraumes aus der Zeit vom 3. Jahrtausend v. Chr. (z. B. aus Troia) bis in die Spätantike zu sehen. Im Zentrum stehen Zeugnisse aus Griechenland, doch auch die etruskische und römische, die ägyptische und vorderasiatische Kultur sind eindrucksvoll vertreten. Ihr internationales Ansehen verdankt die Würzburger Antikensammlung in erster Linie jedoch der umfangreichen und mit vielen Meisterwerken bestückten Sammlung griechischer Vasen.\r\nIn der Galerie werden vor allem deutsche, niederländische und italienische Gemälde des 15. bis 19. Jahrhunderts gezeigt. Die Graphische Sammlung besitzt ca. 11.000 Handzeichnungen und 14.000 Blatt Druckgraphik",
+      "subsetId": "bayern"
+    }
+  ]
+}
