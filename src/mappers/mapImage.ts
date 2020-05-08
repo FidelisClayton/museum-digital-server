@@ -3,7 +3,7 @@ import InstitutionObjectImage from '../models/InstitutionObjectImage'
 const mapImage = (image: any): InstitutionObjectImage => ({
   id: image.quell_id,
   name: image.name,
-  isMain: image.is_main,
+  isMain: image.is_main === 'j',
   type: image.type,
   owner: image.owner,
   folder: image.folder,
