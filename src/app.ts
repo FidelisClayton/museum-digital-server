@@ -4,7 +4,7 @@ import dotenv from 'dotenv'
 
 import { getSubsets, getInstitutions, getInstitution, getObject, getCollection, getObjects } from './services/api'
 
-dotenv.load()
+dotenv.config()
 
 const app = express()
 const port = Number(process.env.PORT) || 3000
