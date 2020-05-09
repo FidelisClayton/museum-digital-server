@@ -40,7 +40,7 @@ export const getInstitutions = (subsetId: string): Promise<Institution[]> => {
         t: 'museum',
       },
     })
-    .then((response) => mapInstitutions(response.data))
+    .then((response) => mapInstitutions(subsetId, response.data))
 }
 
 export const getObject = (subsetId: string, objectId: number): Promise<InstitutionObject> => {
