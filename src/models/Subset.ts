@@ -5,4 +5,5 @@ export default interface Subset {
   collectionsCount: number
   museumsCount: number
   image: string
+  type: 'special' | 'state'
 }

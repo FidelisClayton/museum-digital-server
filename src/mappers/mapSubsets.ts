@@ -1,4 +1,5 @@
 import Subset from '../models/Subset'
+import { SPECIAL_SUBSETS } from '../constants'
 
 type SubsetFromAPI = [number, number, string, string]
 
@@ -23,6 +24,7 @@ const mapSubsets = (subsetFromApi: { [key: string]: SubsetFromAPI }): Subset[] =
         name: subset[3],
         objectsCount: parseInt(objectsCount, 10),
         image: getSubsetImage(subsetId),
+        type: SPECIAL_SUBSETS.includes(subsetId) ? 'special' : 'state',
       },
     ]
   }, [])
