@@ -8,7 +8,9 @@ const mapInstitutionDetail = (institution: any): InstitutionDetail => {
     name: institution.institution_name,
     phone: institution.institution_telnr,
     fax: institution.institution_fax,
-    image: institution.institution_image,
+    image: institution.institution_image
+      ? `https://${institution.institution_subset}.museum-digital.de/data/${institution.institution_image}`
+      : null,
     url: institution.institution_url,
     email: institution.institution_mail,
     description: institution.institution_description,
