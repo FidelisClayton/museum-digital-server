@@ -8,7 +8,7 @@ const mapInstitutionDetail = (institution: any): InstitutionDetail => {
     name: institution.institution_name,
     phone: institution.institution_telnr,
     fax: institution.institution_fax,
-    image: institution.insitution_image,
+    image: institution.institution_image,
     url: institution.institution_url,
     email: institution.institution_mail,
     description: institution.institution_description,
