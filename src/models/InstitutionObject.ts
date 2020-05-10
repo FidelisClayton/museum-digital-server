@@ -11,4 +11,5 @@ export default interface InstitutionObject {
   lastUpdated: string
   institution: InstitutionObject
   images: InstitutionObjectImage[]
+  cover: string | null
 }
