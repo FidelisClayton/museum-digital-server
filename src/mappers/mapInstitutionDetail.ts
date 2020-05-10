@@ -2,6 +2,8 @@ import InstitutionDetail from '../models/InstitutionDetail'
 import mapCollection from './mapCollection'
 
 const mapInstitutionDetail = (institution: any): InstitutionDetail => {
+  const subsetId = institution.subset
+
   return {
     id: institution.institution_id,
     isil: institution.institution_isil,
@@ -9,7 +11,7 @@ const mapInstitutionDetail = (institution: any): InstitutionDetail => {
     phone: institution.institution_telnr,
     fax: institution.institution_fax,
     image: institution.institution_image
-      ? `https://${institution.subset}.museum-digital.de/data/${institution.institution_image}`
+      ? `https://${subsetId}.museum-digital.de/data/${subsetId}/${institution.institution_image}`
       : null,
     url: institution.institution_url,
     email: institution.institution_mail,
@@ -20,9 +22,9 @@ const mapInstitutionDetail = (institution: any): InstitutionDetail => {
     longitude: institution.institution_longitude,
     latitude: institution.institution_latitude,
     objectsCount: institution.institution_number_of_objects,
-    subsetId: institution.subset,
     collections: institution.collections ? Object.values(institution.collections).map(mapCollection) : [],
     top5Objects: [],
+    subsetId,
   }
 }
 
