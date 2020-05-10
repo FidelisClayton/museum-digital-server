@@ -83,7 +83,7 @@ export const getCollection = async (
 ): Promise<InstitutionCollection> => {
   return instance
     .get(subsetId, { params: { t: 'sammlung', instnr: institutionId, gesusa: collectionId } })
-    .then((response) => mapCollection(response.data))
+    .then((response) => mapCollection(subsetId, response.data))
 }
 
 export const getCollections = async (subsetId: string): Promise<InstitutionCollection[]> => {
